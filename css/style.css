@@ -127,6 +127,10 @@ nav li a{
 	width: 480px;
 	padding:24px 4px 24px 40px;/*top right bottom left*/
 }
+.caixa p{
+	font-size: 24px;
+	color: #fff;
+}
 .caixa2{
 	position: absolute;
 	top: 48px;
